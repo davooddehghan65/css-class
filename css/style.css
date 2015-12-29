@@ -13,11 +13,12 @@ body {
 }
 
 .section1 h1 {
-	font-family: verdana;
+	font-family: oswald;
 }
 
 .section1 h3 {
 	color: #f826ab;
+	font-family: oswald;
 }
 
 .content p {
@@ -28,6 +29,7 @@ p.border {
 	border: 2px solid #ff4500;
 	color: #ffa200;
 	font-size: 30px;
+	font-family: oswald;
 }
 
 p.small {
@@ -43,4 +45,5 @@ p.under {
 	font-size: 23px;
 	color: #ffa200;
 	text-transform: uppercase;
+	font-family: oswald;
 }
