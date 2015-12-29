@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'oswald';
+  src: url('../font/oswald-webfont.eot'); /* IE9 Compat Modes */
+  src: url('../font/oswald-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../font/oswald-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../font/oswald-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../font/oswald-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../font/oswald-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+body {
+	background-color: #f9f6f1;
+	text-align: center;
+}
+
+.section1 h1 {
+	font-family: verdana;
+}
+
+.section1 h3 {
+	color: #f826ab;
+}
+
+.content p {
+	font-size: 14px;
+}
+
+p.border {
+	border: 2px solid #ff4500;
+	color: #ffa200;
+	font-size: 30px;
+}
+
+p.small {
+	font-size: 12px;
+	font-family: tahoma;
+}
+
+.section1 , .content {
+	width: 50%;
+}
+
+p.under {
+	font-size: 23px;
+	color: #ffa200;
+	text-transform: uppercase;
+}
