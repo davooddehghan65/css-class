@@ -9,14 +9,17 @@
 }
 body {
 	background-color: #f9f6f1;
-	text-align: center;
 }
 
-.section1 h1 {
+.header h1 {
 	font-family: oswald;
 }
 
-.section1 h3 {
+.centerContent {
+	text-align: center;
+}
+
+.header h3 {
 	color: #f826ab;
 	font-family: oswald;
 }
@@ -37,7 +40,7 @@ p.small {
 	font-family: tahoma;
 }
 
-.section1 , .content {
+.header , .content {
 	width: 50%;
 }
 
@@ -47,3 +50,4 @@ p.under {
 	text-transform: uppercase;
 	font-family: oswald;
 }
+
